@@ -26,5 +26,3 @@ elShipping.textContent = '$' + shipping;
 
 var elGrandTotal = document.getElementById('grandTotal');
 elGrandTotal.textContent = '$' + grandTotal;
-
-// testing git ssh
